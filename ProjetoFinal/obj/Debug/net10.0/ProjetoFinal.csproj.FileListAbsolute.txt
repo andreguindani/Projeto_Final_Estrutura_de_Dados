@@ -1,0 +1,15 @@
+C:\Users\459942\Projeto_Final_Estrutura_de_Dados\ProjetoFinal\bin\Debug\net10.0\ProjetoFinal.exe
+C:\Users\459942\Projeto_Final_Estrutura_de_Dados\ProjetoFinal\bin\Debug\net10.0\ProjetoFinal.deps.json
+C:\Users\459942\Projeto_Final_Estrutura_de_Dados\ProjetoFinal\bin\Debug\net10.0\ProjetoFinal.runtimeconfig.json
+C:\Users\459942\Projeto_Final_Estrutura_de_Dados\ProjetoFinal\bin\Debug\net10.0\ProjetoFinal.dll
+C:\Users\459942\Projeto_Final_Estrutura_de_Dados\ProjetoFinal\bin\Debug\net10.0\ProjetoFinal.pdb
+C:\Users\459942\Projeto_Final_Estrutura_de_Dados\ProjetoFinal\obj\Debug\net10.0\ProjetoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\459942\Projeto_Final_Estrutura_de_Dados\ProjetoFinal\obj\Debug\net10.0\ProjetoFinal.AssemblyInfoInputs.cache
+C:\Users\459942\Projeto_Final_Estrutura_de_Dados\ProjetoFinal\obj\Debug\net10.0\ProjetoFinal.AssemblyInfo.cs
+C:\Users\459942\Projeto_Final_Estrutura_de_Dados\ProjetoFinal\obj\Debug\net10.0\ProjetoFinal.csproj.CoreCompileInputs.cache
+C:\Users\459942\Projeto_Final_Estrutura_de_Dados\ProjetoFinal\obj\Debug\net10.0\ProjetoFinal.sourcelink.json
+C:\Users\459942\Projeto_Final_Estrutura_de_Dados\ProjetoFinal\obj\Debug\net10.0\ProjetoFinal.dll
+C:\Users\459942\Projeto_Final_Estrutura_de_Dados\ProjetoFinal\obj\Debug\net10.0\refint\ProjetoFinal.dll
+C:\Users\459942\Projeto_Final_Estrutura_de_Dados\ProjetoFinal\obj\Debug\net10.0\ProjetoFinal.pdb
+C:\Users\459942\Projeto_Final_Estrutura_de_Dados\ProjetoFinal\obj\Debug\net10.0\ProjetoFinal.genruntimeconfig.cache
+C:\Users\459942\Projeto_Final_Estrutura_de_Dados\ProjetoFinal\obj\Debug\net10.0\ref\ProjetoFinal.dll
